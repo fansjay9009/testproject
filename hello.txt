@@ -1,0 +1,2 @@
+this is Hello world
+if(this.obj).clone the box
